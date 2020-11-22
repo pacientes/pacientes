@@ -38,7 +38,7 @@ Thank you.
 
 ### Buy me a coffe...😍
 
-<a href="https://www.buymeacoffee.com/QVceam2" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-blue.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 120px !important;"></a>
+<a href="https://www.buymeacoffee.com/QVceam2" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-blue.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 <!--
 **pacientes/pacientes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
