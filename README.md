@@ -11,13 +11,25 @@ I worked on the following projects.
 - Development of real-time HD map creation technology using object detection information
 
 And I'm looking for new **things**..😄
-Please contact me at my E-Mail. [pacientes.jw@gmail.com](*)
+Please contact me at my E-Mail. **pacientes.jw@gmail.com**
 
-My personal blog. [https://pacientes.github.io/](https://pacientes.github.io/)
+If you are interested in my blog.
+Please connect to this website. [https://pacientes.github.io/](https://pacientes.github.io/)
 
-### Github Profile
+Thank you.
+
+### My skills include...
+
+- C++/Python/Matlab/Labview
+- Windows/Linux
+- Git/Jenkins
+- Jira/Confluence
+
+### Github profile...
 
 [![Pacientes's github stats](https://github-readme-stats.vercel.app/api?username=pacientes&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 **pacientes/pacientes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
