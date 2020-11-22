@@ -1,6 +1,7 @@
 ## Hello, everyone. 👋
 
 I'm a Research Engineer & Developer for Autonomous Vehicle, Computer Vision.
+
 I worked on the following projects.
 
 - Real-time 3D graphics system development in Linux environment
@@ -11,10 +12,14 @@ I worked on the following projects.
 - Development of real-time HD map creation technology using object detection information
 
 And I'm looking for new **things**..😄
+
 Please contact me at my E-Mail. **pacientes.jw@gmail.com**
 
 If you are interested in my blog.
+
 Please connect to this website. [https://pacientes.github.io/](https://pacientes.github.io/)
+
+
 
 Thank you.
 
