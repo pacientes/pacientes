@@ -4,12 +4,12 @@ I'm a Research Engineer & Developer for Autonomous Vehicle, Computer Vision.
 
 I worked on the following projects.
 
-- Real-time 3D graphics system development in Linux environment
-- AR technology development in embedded environment
-- Real-time object detection technology development in embedded environment
-- Development of localization technology using computer vision technology
-- Camera, LiDAR sensor calibration technology development
-- Development of real-time HD map creation technology using object detection information
+- **Real-time 3D graphics system** development in Linux environment
+- **AR technology** development in embedded environment
+- Real-time **object detection** technology development in embedded environment
+- Development of **localization** technology using computer vision technology
+- Camera, LiDAR **sensor calibration** technology development
+- Development of real-time **HD map creation technology** using object detection information
 
 And I'm looking for new **things**..😄
 
