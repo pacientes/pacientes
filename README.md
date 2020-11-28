@@ -26,7 +26,9 @@ Thank you.
 ### My skills include...
 
 - C++/Python/Matlab/Labview
-- Tensorflow/PyTorch/OpenCV/PCL/OpenGL/ROS/NVIDIA(CUDA, TensorRT, EGLStream, etc...)
+  - Tensorflow/PyTorch
+  - OpenCV/PCL/OpenGL/ROS
+  - NVIDIA(CUDA, TensorRT, Multimedia API, EGLStream, etc...)
 - Windows/Linux
 - Git/Jenkins
 - Jira/Confluence
