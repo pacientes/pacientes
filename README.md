@@ -11,7 +11,7 @@ I worked on the following projects.
 - Camera, LiDAR **sensor calibration** technology development
 - Development of real-time **HD map creation technology** using object detection information
 
-And I'm looking for new **things**..😄
+And I'm looking for **Job**..!😄
 
 Please contact me at my E-Mail. **pacientes.jw@gmail.com**
 
