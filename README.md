@@ -38,6 +38,10 @@ Thank you.
 [![Pacientes's github stats](https://github-readme-stats.vercel.app/api?username=pacientes&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
+### Online algorithm status...
+
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=pacientes)](https://solved.ac/pacientes)
+
 ### Buy me a coffe...😍
 
 <a href="https://donaricano.com/mypage/1540147667_Vv_mq4" target="_blank"><img src="https://d1u4yishnma8v5.cloudfront.net/donarincano_gift.png" alt="donaricano-btn" style="height: 70px !important;width: 200px !important;" /></a>
