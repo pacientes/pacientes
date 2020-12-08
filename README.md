@@ -35,7 +35,7 @@ Thank you.
 
 ### Activities...
 
-- [**자율주행을 좋아하는 사람들의 모임**](https://open.kakao.com/o/geMJ6H2) for Open KakaoTalk
+- [**자율주행을 좋아하는 사람들의 모임**](https://open.kakao.com/o/geMJ6H2) for KakaoTalk
 - (2020.11.09 ~ 2021.08.31) 제이펍 베타리더스 10기
 
 ### Github profile...
