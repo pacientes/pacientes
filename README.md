@@ -18,24 +18,23 @@ If you are interested in my blog.
 Please connect to this website. [https://pacientes.github.io/](https://pacientes.github.io/)
 
 
-
 Thank you.
 
 ### My skills include...
 
-- C++/Python/Matlab/Labview
-  - Tensorflow/PyTorch
-  - OpenCV/PCL/OpenGL/ROS
+- **C**/**C++**/**Python**/Matlab/Labview
+  - **Tensorflow**/PyTorch/**DarkNet**
+  - **OpenCV**/**PCL**/OpenGL/**ROS**
   - NVIDIA(CUDA, TensorRT, Multimedia API, EGLStream, etc...)
-- Windows/Linux
-- Git/Jenkins
-- Jira/Confluence
+- **Windows**/**Linux**
+- **Git**/Jenkins
+- **Jira**/**Confluence**
 
 ### Activities...
 
 - [**자율주행을 좋아하는 사람들의 모임**](https://open.kakao.com/o/geMJ6H2) for KakaoTalk
-- 2021, 나는 리뷰어다, 한빛미디어
-- 2020 ~ 2021, 베타리더스 10기, 제이펍
+- 2021, **나는 리뷰어다**, 한빛미디어
+- 2020 ~ 2021, **베타리더스 10기**, 제이펍
 
 ### Buy me a coffe...😍
 
