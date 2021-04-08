@@ -17,7 +17,6 @@ If you are interested in my blog.
 
 Please connect to this website. [https://pacientes.github.io/](https://pacientes.github.io/)
 
-
 Thank you.
 
 ### My skills include...
