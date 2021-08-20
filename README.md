@@ -13,21 +13,15 @@ I worked on the following projects.
 
 Please contact me at my E-Mail.😄 **pacientes.jw@gmail.com**
 
-If you are interested in my blog.
-
-Please connect to this website. [https://pacientes.github.io/](https://pacientes.github.io/)
-
-Thank you.
-
 ### My skills include...
 
-- **C**/**C++**/**Python**/Matlab/Labview
-  - **Tensorflow**/PyTorch/**DarkNet**
-  - **OpenCV**/**PCL**/OpenGL/**ROS**
-  - NVIDIA(CUDA, TensorRT, Multimedia API, EGLStream, etc...)
-- **Windows**/**Linux**
-- **Git**/Jenkins
-- **Jira**/**Confluence**
+- C++/Python/Matlab/Labview
+  - Tensorflow/PyTorch
+  - OpenCV/PCL/OpenGL/ROS
+  - NVIDIA(CUDA, TensorRT, DeepStream, Multimedia API, EGLStream, etc...)
+- Windows/Linux Programming
+- System Integration, Git/CI/CD
+- Project Management, Jira/Confluence
 
 ### Activities...
 
