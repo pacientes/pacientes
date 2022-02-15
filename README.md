@@ -30,7 +30,3 @@ Please contact me at my E-Mail.😄 **pacientes.jw@gmail.com**
 - 2022, **베타리더스 11기**, 제이펍
 - 2021, **나는 리뷰어다**, 한빛미디어
 - 2021, **베타리더스 10기**, 제이펍
-
-### Buy me a coffe...😍
-
-<a href="https://donaricano.com/mypage/1540147667_Vv_mq4" target="_blank"><img src="https://d1u4yishnma8v5.cloudfront.net/donarincano_gift.png" alt="donaricano-btn" style="height: 70px !important;width: 200px !important;" /></a>
